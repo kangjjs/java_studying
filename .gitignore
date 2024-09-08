@@ -141,7 +141,7 @@ hs_err_pid*
 replay_pid*
 
 #intellij files
-.idea
+/.idea
 JavaStudying.iml
 /out
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java
